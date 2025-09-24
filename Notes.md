@@ -11,7 +11,7 @@ We did a thing we talkked about a bunch of the thing that we talk about for the 
 * size of main window
 * fields on the form
     * name
-    * age
+     * age
     * street
 * logout procedures
  
