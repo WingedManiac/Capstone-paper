@@ -10,7 +10,7 @@ We did a thing we talkked about a bunch of the thing that we talk about for the 
 * Colors
 * size of main window
 * fields on the form
-    * name
-      * street
+ * name
+ * street
 * logout procedures
  
